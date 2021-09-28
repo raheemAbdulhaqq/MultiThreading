@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "q81R2MexjiZg5lXfso3zfTIutXYd/MJGAHTHvcIOnpyxjDD4XDJx7bTGK5tj/xr05Ln1LP17HYT+fGe9zYWEsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOTEBOOK\\source\\repos\\PushNotification\\PushNotification\\PushNotification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\corepush\\3.0.4\\corepush.3.0.4.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.2\\swashbuckle.aspnetcore.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.2\\swashbuckle.aspnetcore.swagger.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.2\\swashbuckle.aspnetcore.swaggergen.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.2\\swashbuckle.aspnetcore.swaggerui.6.2.2.nupkg.sha512",
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
