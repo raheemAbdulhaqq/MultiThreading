@@ -57,6 +57,7 @@ namespace PushNotification.Services
                     notification.Notification = dataPayload;
 
                     var fcm = new FcmSender(settings, httpClient);
+
                     var fcmSendResponse = await fcm.SendAsync(deviceToken, notification);
 
                     if (fcmSendResponse.IsSuccess())
