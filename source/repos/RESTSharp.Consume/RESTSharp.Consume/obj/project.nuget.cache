@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+pEHDMiVbd+XTaIFve7CQ+Us2j7AHNKv4ExTMEboyU5Rog8MZMH+RQeeIEBwRXM957YeV6JAkksG2bIGBLBTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NOTEBOOK\\source\\repos\\RESTSharp.Consume\\RESTSharp.Consume\\RESTSharp.Consume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NOTEBOOK\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

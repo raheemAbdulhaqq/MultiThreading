@@ -1,0 +1,17 @@
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.exe
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.deps.json
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.runtimeconfig.dev.json
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.dll
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\ref\RESTSharp.Consume.dll
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RESTSharp.Consume.pdb
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\bin\Debug\net5.0\RestSharp.dll
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.csproj.CopyComplete
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.dll
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\ref\RESTSharp.Consume.dll
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.pdb
+C:\Users\NOTEBOOK\source\repos\RESTSharp.Consume\RESTSharp.Consume\obj\Debug\net5.0\RESTSharp.Consume.genruntimeconfig.cache
