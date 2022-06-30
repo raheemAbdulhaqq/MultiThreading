@@ -1,0 +1,16 @@
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.exe
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.deps.json
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.runtimeconfig.dev.json
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.dll
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\ref\MultiThreading.dll
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\bin\Debug\net5.0\MultiThreading.pdb
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.dll
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\ref\MultiThreading.dll
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.pdb
+C:\Users\NOTEBOOK\source\repos\MultiThreading\MultiThreading\obj\Debug\net5.0\MultiThreading.genruntimeconfig.cache
